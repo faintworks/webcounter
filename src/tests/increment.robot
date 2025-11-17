@@ -25,4 +25,4 @@ When counter is set to a specific value
     Go To  ${HOME_URL}
     Input Text  new_value  5
     Click Button  Aseta
-    Page Should Contain  nappia painittu 5 kertaa
+    Page Should Contain  nappia painettu 5 kertaa
